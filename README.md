@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋 Hello there! I'm Addison.
+
+- I'm a senior studying computer science at Columbia University.
+- I was a professional ballet dancer before I became interested CS.
+
 
 <!--
 **addisongoodwin/addisongoodwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
